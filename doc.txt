@@ -1,0 +1,17 @@
+commit d6e3092f679e6210b8ed0d3072d5140f625719bf
+Author: DaniloSerna <dsernao@unal.edu.co>
+Date:   Fri May 15 19:36:06 2020 -0500
+
+    added gitignore
+
+commit 7d88115ec0b57aa4e220f75918a75e37cbacc543
+Author: DaniloSerna <dsernao@unal.edu.co>
+Date:   Fri May 15 00:05:37 2020 -0500
+
+    added two files
+
+commit 0904bba5063a4b2f22a385c198ab7b859b0f6f6c
+Author: DaniloSerna <dsernao@unal.edu.co>
+Date:   Thu May 14 23:47:14 2020 -0500
+
+    added readme.txt
