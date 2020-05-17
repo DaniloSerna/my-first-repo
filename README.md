@@ -17,9 +17,9 @@ Three of my favorite books are:
 Three of my favorite foods are:
 
 1. Fish.
-2. Artisan Burguer.
+2. Burguer (Artisan).
 3. Asian Food.
 
 ### Contact
 
-The best way to get in touch with me is [on Faceboo](https://www.facebook.com/danilo.sernaortiz).
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/danilo.sernaortiz).
